@@ -27,7 +27,7 @@ This dashboard helps monitor sales performance, profit, customer trends, product
 
 ## 💡 Screenshots
  Show what the screenshot look like.
- [Power Bi Dashboard]
+  [Power Bi Dashboard]
 https://github.com/Ridip843/BI-DASHBOARD/blob/main/POWER%20BI%20DASHBOARD.png
 
 ---
